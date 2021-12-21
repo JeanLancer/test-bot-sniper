@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "baseUrl": ".",
+    "strictPropertyInitialization": false,
+    "module": "commonjs",
+    "target": "es2019",
+    "allowJs": true,                  
+    "removeComments": true,               
+    "esModuleInterop": true                
+  },
+  "exclude": [       
+    "**.js"
+  ],
+  "include": ["src"]
+}
+      
